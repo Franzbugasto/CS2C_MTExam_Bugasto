@@ -1,5 +1,5 @@
 // Declare the favorite number
-const favNumber = 7; // Replace with the actual favorite number
+const favNumber = 95; // Replace with the actual favorite number
 
 let guess = null; // Initialize guess
 
